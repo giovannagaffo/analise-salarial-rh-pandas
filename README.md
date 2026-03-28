@@ -1,7 +1,6 @@
 # analise-salarial-rh-pandas
 Automação de análise salarial e indicadores de RH utilizando Python e Pandas. O projeto processa dados de colaboradores para identificar riscos de sucessão, anomalias de turnover e disparidades regionais/educacionais, gerando um relatório final em Excel com gráficos integrados.
 
-# Sistema de Análise e Inteligência Salarial (RH)
 Este projeto automatiza a extração de insights estratégicos a partir de bases de dados de recursos humanos. Utilizando Python e a biblioteca Pandas, o script realiza análises estatísticas avançadas e identifica padrões críticos para a gestão de talentos.
 
 O script processa os dados brutos e gera cinco visões principais:
